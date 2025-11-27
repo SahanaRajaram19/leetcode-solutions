@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0189-rotate-array) |
+| [1025-divisor-game](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1025-divisor-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Recursion
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [1025-divisor-game](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->

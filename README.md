@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0292-nim-game](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1025-divisor-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -65,9 +66,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->

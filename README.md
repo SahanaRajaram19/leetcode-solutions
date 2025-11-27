@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1952-three-divisors](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2235-add-two-integers) |

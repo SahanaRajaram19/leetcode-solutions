@@ -115,4 +115,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0461-hamming-distance](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->

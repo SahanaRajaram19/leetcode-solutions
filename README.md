@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0189-rotate-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Recursion
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->

@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0136-single-number](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |

@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1952-three-divisors](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0189-rotate-array](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0189-rotate-array) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
+## Greedy
+|  |
+| ------- |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 <!---LeetCode Topics End-->

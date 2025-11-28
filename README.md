@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2351-first-letter-to-appear-twice](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Dynamic Programming
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0268-missing-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [2351-first-letter-to-appear-twice](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Greedy
 |  |
 | ------- |
@@ -143,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->

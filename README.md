@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1512-number-of-good-pairs](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1952-three-divisors](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1952-three-divisors) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0268-missing-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1512-number-of-good-pairs](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Binary Search
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [1512-number-of-good-pairs](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
@@ -153,5 +156,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->

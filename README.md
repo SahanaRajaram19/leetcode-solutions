@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2651-calculate-delayed-arrival-time](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2651-calculate-delayed-arrival-time) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [2806-account-balance-after-rounded-purchase](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Recursion
 |  |

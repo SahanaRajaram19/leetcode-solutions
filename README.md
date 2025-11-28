@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0268-missing-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1512-number-of-good-pairs](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Counting
 |  |
 | ------- |

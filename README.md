@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0202-happy-number) |
 ## String

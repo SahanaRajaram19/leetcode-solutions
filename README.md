@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0387-first-unique-character-in-a-string](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2351-first-letter-to-appear-twice](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1512-number-of-good-pairs](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -187,10 +189,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

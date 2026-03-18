@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1480-running-sum-of-1d-array](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2079-watering-plants](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2079-watering-plants) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3248-snake-in-matrix](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/3248-snake-in-matrix) |
 ## Binary Search
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/0258-add-digits) |
 | [1518-water-bottles](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/1518-water-bottles) |
+| [2079-watering-plants](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/2079-watering-plants) |
 | [3248-snake-in-matrix](https://github.com/SahanaRajaram19/leetcode-solutions/tree/master/3248-snake-in-matrix) |
 ## Number Theory
 |  |
